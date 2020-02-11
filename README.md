@@ -15,6 +15,11 @@ Session Recording
 https://youtu.be/iBfcrJI9n2U
 
 
+# 2 - 6 - 20
+***Binary_Tree***
+Session Recording
+https://youtu.be/DZd7Lz2b-iM
+
 # 2 - 11 - 20
 ***Jumping_on_Clouds***
 Session Recording
