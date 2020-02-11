@@ -14,6 +14,11 @@ https://youtu.be/z-sDg8RSkzY
 Session Recording
 https://youtu.be/iBfcrJI9n2U
 
+# 1 - 31 - 20
+***Skip_List_DS***
+Session Recording
+https://youtu.be/0UMPGCDqncI
+
 # 2 - 4 - 20
 ***Height_Binary_Tree***
 Session recording
