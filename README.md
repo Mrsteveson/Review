@@ -14,9 +14,13 @@ https://youtu.be/z-sDg8RSkzY
 Session Recording
 https://youtu.be/iBfcrJI9n2U
 
+# 2 - 4 - 20
+***Height_Binary_Tree***
+Session recording
+https://youtu.be/uz-0UfNjBew
 
 # 2 - 6 - 20
-***Binary_Tree***
+***Valid_Binary_Tree***
 Session Recording
 https://youtu.be/DZd7Lz2b-iM
 
