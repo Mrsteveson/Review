@@ -14,10 +14,15 @@ https://youtu.be/z-sDg8RSkzY
 Session Recording
 https://youtu.be/iBfcrJI9n2U
 
+# 1 - 28 - 20
+***Reverse_Doubly_Linked_List***
+Session Recording
+https://youtu.be/MgfbKAUP7gI
+
 # 1 - 29 - 20
 ***Linked_List_Has_Cycle***
 Session Recording
-
+https://youtu.be/3DhZyrntzAQ
 
 # 1 - 30 - 20
 ***Start_of_Linked_List_Cycle***
