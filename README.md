@@ -1,6 +1,10 @@
 # Review
 A collection of code challenges. Saved for further review. Done with Lambda School.
 
+# Helpful Resources and Articles
+https://skerritt.blog/big-o/#-how-do-we-measure-how-long-an-algorithm-takes-to-run
+https://miketricking.github.io/bootstrap-image-hover/
+
 # HR Warm Up Challenges
 https://www.hackerrank.com/interview/interview-preparation-kit/warmup/challenges
 
@@ -48,3 +52,8 @@ https://youtu.be/DZd7Lz2b-iM
 ***Jumping_on_Clouds***
 Session Recording
 https://youtu.be/hHZmolovAJo
+
+# 2 - 12 - 20
+***Smallest Missing Element***
+Session Recording
+https://youtu.be/IxaIP4V07UU
