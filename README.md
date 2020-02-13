@@ -8,6 +8,9 @@ https://miketricking.github.io/bootstrap-image-hover/
 # HR Warm Up Challenges
 https://www.hackerrank.com/interview/interview-preparation-kit/warmup/challenges
 
+# Code Signal
+https://app.codesignal.com/interview-practice/topics/common-techniques-basic
+
 # 12 - 2 - 19
 ***Sort_Stack***
 Session Recording
@@ -54,6 +57,11 @@ Session Recording
 https://youtu.be/hHZmolovAJo
 
 # 2 - 12 - 20
-***Smallest Missing Element***
+***Smallest_Missing_Element***
 Session Recording
 https://youtu.be/IxaIP4V07UU
+
+# 2 - 13 - 20
+***Sum_of_Two***
+Session Recording
+https://youtu.be/va1IqN0uplE
