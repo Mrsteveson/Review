@@ -41,4 +41,36 @@ def smallest_missing(arr):
 print(smallest_missing([0, 1, 2, 6, 9, 11, 15]))
 print(smallest_missing([1, 2, 3, 4, 6, 9, 11, 15]))
 print(smallest_missing([0, 1, 2, 3, 4, 5, 6]))
-print(smallest_missing([])) # should return 0 
+print(smallest_missing([])) # should return 0
+
+#
+# Sean's Implementation using binary search.
+def find_smallest_missing(arr):
+  floor = 0 
+  ceiling = len(arr) - 1
+​
+  # check for 0 at the front 
+  if not arr or arr[floor] != 0:
+    return 0 
+​
+  # check the last element to see if it matches its index 
+  if arr[ceiling] == ceiling:
+    return len(arr)
+​
+  # perform our binary search 
+  while floor < ceiling:
+    mid = floor + (ceiling - floor) // 2
+​
+    if arr[mid] != mid:
+      # the midpoint element doesn't match its index 
+      # so the smallest missing must be this element or to the left 
+      ceiling = mid
+    else:
+      # the midpoint element matches its index 
+      # so the smallest missing must be to the right 
+      floor = mid + 1
+​
+  # we've reached the end of the loop and narrowed it down 
+  # to one element; we can return either the floor or 
+  # ceiling index 
+  return ceiling
