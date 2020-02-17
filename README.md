@@ -2,7 +2,13 @@
 A collection of code challenges. Saved for further review. Done with Lambda School.
 
 # Helpful Resources and Articles
+***Big O Notation***
 https://skerritt.blog/big-o/#-how-do-we-measure-how-long-an-algorithm-takes-to-run
+
+***JS ES6 Map and Reduce***
+https://www.olioapps.com/blog/map-reduce/
+
+***Hover Effects***
 https://miketricking.github.io/bootstrap-image-hover/
 
 # HR Warm Up Challenges
@@ -65,3 +71,10 @@ https://youtu.be/IxaIP4V07UU
 ***Sum_of_Two***
 Session Recording
 https://youtu.be/va1IqN0uplE
+
+# 2 - 17 - 20
+***Reduce_and_Map***
+Session Recording
+https://youtu.be/9Dn0AuJRIBk
+Additional Gist
+https://gist.github.com/seanchen1991/a151368df32b8e7ae6e7fde715e44b78
