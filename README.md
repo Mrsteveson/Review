@@ -13,6 +13,7 @@ https://miketricking.github.io/bootstrap-image-hover/
 
 # HR Warm Up Challenges
 https://www.hackerrank.com/interview/interview-preparation-kit/warmup/challenges
+https://www.hackerrank.com/interview/interview-preparation-kit/linked-lists/challenges
 
 # Code Signal
 https://app.codesignal.com/interview-practice/topics/common-techniques-basic
@@ -78,3 +79,8 @@ Session Recording
 https://youtu.be/9Dn0AuJRIBk
 Additional Gist
 https://gist.github.com/seanchen1991/a151368df32b8e7ae6e7fde715e44b78
+
+# 2 - 18 - 20
+***Merge_Point_of_Two_LLs***
+Session Recording
+https://youtu.be/TjYvZDsgu-Y
