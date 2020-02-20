@@ -84,3 +84,8 @@ https://gist.github.com/seanchen1991/a151368df32b8e7ae6e7fde715e44b78
 ***Merge_Point_of_Two_LLs***
 Session Recording
 https://youtu.be/TjYvZDsgu-Y
+
+# 2 - 19 - 20
+***Is_List_Palindrome***
+Session Recording
+https://youtu.be/cTMkO78sF5U
