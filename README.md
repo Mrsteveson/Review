@@ -89,3 +89,8 @@ https://youtu.be/TjYvZDsgu-Y
 ***Is_List_Palindrome***
 Session Recording
 https://youtu.be/cTMkO78sF5U
+
+# 2 - 20 - 20
+***Text_Justification***
+Session Recording
+https://youtu.be/fo3HLovF3AM
