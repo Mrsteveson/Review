@@ -94,3 +94,8 @@ https://youtu.be/cTMkO78sF5U
 ***Text_Justification***
 Session Recording
 https://youtu.be/fo3HLovF3AM
+
+# 2 - 24 - 2020
+***Super_Digits***
+Session Recording
+https://youtu.be/zppb9vOCRow
