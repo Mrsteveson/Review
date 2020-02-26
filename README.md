@@ -103,6 +103,8 @@ https://youtu.be/zppb9vOCRow
 # 2 - 25 - 2020
 ***Telephone_Words_Notes***
 Session Recording
-
+https://youtu.be/4sRdlWZenLQ
+Part 2
+https://youtu.be/Dk9dOqJaXqw
 Gist
 https://gist.github.com/seanchen1991/0ccbd83500939c2ab26c3b0ad449da9d
