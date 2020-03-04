@@ -113,3 +113,8 @@ https://gist.github.com/seanchen1991/0ccbd83500939c2ab26c3b0ad449da9d
 ***Insert_Into_Sorted_DLL***
 Session Recording
 https://youtu.be/-1i95V-d7BY
+
+# 3 - 2 - 2020
+***Making_Change***
+Session Recording
+https://youtu.be/3rPF3zFMPy0
