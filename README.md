@@ -114,9 +114,13 @@ https://gist.github.com/seanchen1991/0ccbd83500939c2ab26c3b0ad449da9d
 Session Recording
 https://youtu.be/-1i95V-d7BY
 
-# 3 - 2 - 2020
+# 3 - 2/3 - 2020
 ***Making_Change***
 Session Recording
 https://youtu.be/3rPF3zFMPy0
 Part 2
 https://youtu.be/Y-mw0ECMAOw
+
+# 3 - 4 - 2020
+***Frequency_Queries***
+Session Recording
