@@ -124,3 +124,7 @@ https://youtu.be/Y-mw0ECMAOw
 # 3 - 4 - 2020
 ***Frequency_Queries***
 Session Recording
+https://youtu.be/rCjolRgwKY4
+
+# 3 - 5 - 2020
+******
