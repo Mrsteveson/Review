@@ -127,4 +127,6 @@ Session Recording
 https://youtu.be/rCjolRgwKY4
 
 # 3 - 5 - 2020
-******
+***Zeroes_To_The_Right***
+Session Recording
+https://youtu.be/O3HBd0ICJ2M
