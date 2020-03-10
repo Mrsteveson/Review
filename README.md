@@ -130,3 +130,8 @@ https://youtu.be/rCjolRgwKY4
 ***Zeroes_To_The_Right***
 Session Recording
 https://youtu.be/O3HBd0ICJ2M
+
+# 3 - 10 - 2020
+***Counting_Valleys***
+Session Recording
+https://youtu.be/-7h_c_B6JVQ
