@@ -135,3 +135,11 @@ https://youtu.be/O3HBd0ICJ2M
 ***Counting_Valleys***
 Session Recording
 https://youtu.be/-7h_c_B6JVQ
+
+# 3 - 11 - 2020
+***Spatial_Partitioning***
+Session Recording
+https://youtu.be/I1L2pHg97G4
+Relevant Problems
+https://www.hackerrank.com/challenges/tree-huffman-decoding/problem
+https://www.hackerrank.com/challenges/starfleet/problem
