@@ -143,3 +143,8 @@ https://youtu.be/I1L2pHg97G4
 Relevant Problems
 https://www.hackerrank.com/challenges/tree-huffman-decoding/problem
 https://www.hackerrank.com/challenges/starfleet/problem
+
+# 3 - 12 - 2020
+***Spatial_partitioning***
+Session Recording
+https://youtu.be/NiRc8cR6xzYSS
