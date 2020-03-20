@@ -148,3 +148,8 @@ https://www.hackerrank.com/challenges/starfleet/problem
 ***Spatial_partitioning***
 Session Recording
 https://youtu.be/NiRc8cR6xzYSS
+
+# 3 - 19 - 2020
+***Climbing_Staircases***
+Session Recording
+https://youtu.be/bhUJuPBmp_o
