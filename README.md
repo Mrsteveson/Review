@@ -153,3 +153,8 @@ https://youtu.be/NiRc8cR6xzYSS
 ***Climbing_Staircases***
 Session Recording
 https://youtu.be/bhUJuPBmp_o
+
+# 3 - 23- 2020
+***Classifying_Strings***
+Session Recording
+https://youtu.be/iaY3zFVw7Og
