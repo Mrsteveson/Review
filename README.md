@@ -154,7 +154,12 @@ https://youtu.be/NiRc8cR6xzYSS
 Session Recording
 https://youtu.be/bhUJuPBmp_o
 
-# 3 - 23- 2020
+# 3 - 23 - 2020
 ***Classifying_Strings***
 Session Recording
 https://youtu.be/iaY3zFVw7Og
+
+# 3 - 24 - 2020
+***Text_Justification***
+Session Recording
+https://youtu.be/YQA-lJSpcjE
