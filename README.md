@@ -163,3 +163,8 @@ https://youtu.be/iaY3zFVw7Og
 ***Text_Justification***
 Session Recording
 https://youtu.be/YQA-lJSpcjE
+
+# 3 - 30 - 2020
+***Frequency_Queries pt2***
+Session Recording
+https://youtu.be/gu2g1Q5-Tso
