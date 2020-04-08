@@ -168,3 +168,10 @@ https://youtu.be/YQA-lJSpcjE
 ***Frequency_Queries pt2***
 Session Recording
 https://youtu.be/gu2g1Q5-Tso
+
+# 3 - 31 - 2020
+***Sorted_Matrix***
+Session Recording
+
+Gist
+https://gist.github.com/seanchen1991/7c948f1f4ebca8e3f86b8e8131253580
