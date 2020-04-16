@@ -180,3 +180,8 @@ https://gist.github.com/seanchen1991/7c948f1f4ebca8e3f86b8e8131253580
 ***Repeating_character***
 Session Recording
 https://youtu.be/uLPyNusl_us
+
+# 4- 14 - 2020
+***Grouping_Dishes***
+Session Recording
+https://youtu.be/m-eTD8wUXTQ
