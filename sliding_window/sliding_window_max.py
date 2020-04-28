@@ -35,3 +35,31 @@ def maxSlidingWindow(self, nums: List[int], k: int) -> List[int]:
     # from the front of the queue until the head of the queue > the new incoming element 
     # set the new larger element as the max value 
     # each time the window slides, add the first queue element to the output array
+
+from collections import deque
+​
+def sliding_window_max(nums, k):
+	output = []
+	q = deque()
+	
+	for i, val in enumerate(nums):
+		# pop values from our queue until the max value is at the 
+		# front of the queue
+		while len(q) > 0 and val > q[-1]:
+			q.pop()
+			
+		q.append(val)
+		
+		# index to keep track of the left index of the window
+		left_idx = i - k + 1
+		
+		# so long as the left side of the window is in bounds
+		if left_idx >= 0:
+			output.append(q[0])
+			
+			# check if the element at `left_idx` is the head of the queue
+			# we need to remove it if is
+			if nums[left_idx] == q[0]:
+				q.popleft()
+				
+	return output
