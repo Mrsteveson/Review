@@ -195,3 +195,8 @@ https://leetcode.com/problems/group-anagrams/
 # 4 - 27 - 2020
 ***Sliding_Window***
 Session Recording
+https://youtu.be/tOuprV4Nw7Y
+
+# 4 - 30 - 2020
+***Linked_List_Map_and_Reduce***
+Session Recording
