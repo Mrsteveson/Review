@@ -9,3 +9,10 @@ https://www.hackerrank.com/interview/interview-preparation-kit
 # 5 - 4 - 2020
 # 30 Days of Code Challenge # 1
 *Hello World*
+
+# Interview Preparation Kit
+# Warm-Ups
+*Counting Valleys* 
+*Jumping_Clouds*
+*Sock_Merchant*
+*Repeated_String*
