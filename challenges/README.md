@@ -7,7 +7,7 @@ https://www.hackerrank.com/domains/tutorials/30-days-of-code
 https://www.hackerrank.com/interview/interview-preparation-kit
 
 # 5 - 4 - 2020
-# 30 Days of Code Challenge # 1
+# 30 Days of Code Challenge #1
 *Hello World*
 
 # Interview Preparation Kit
@@ -16,3 +16,11 @@ https://www.hackerrank.com/interview/interview-preparation-kit
 *Jumping_Clouds*
 *Sock_Merchant*
 *Repeated_String*
+
+# 5 - 5 - 2020
+# 30 Days of Code Challenge #2
+*Data Types*
+
+# 5 - 6 - 2020
+# 30 Days of Code Challenge #3
+*Operators*
