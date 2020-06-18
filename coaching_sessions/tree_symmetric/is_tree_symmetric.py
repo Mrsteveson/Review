@@ -76,3 +76,38 @@ class Solution:
         # perform two breadth-first searches, both in opposite directions
         # output the results to two separate arrays 
         # check if the two arrays match
+
+from collections import deque
+​
+def isSymmetric(self, root: TreeNode) -> bool:
+	# use a queue to facilitate breadth first search
+	q = deque()
+	
+	# for each iteration, we dequeue two nodes at a time, so 
+	# we'll need to add the root twice 
+	q.append(root)
+	q.append(root)
+	
+	while len(q) > 0:
+		r1 = q.popleft()
+		r2 = q.popleft()
+		
+		# we can't say anything definitive if both nodes 
+		# are None; just move on to the next iteration 
+		if r1 is None and r2 is None:
+			continue
+		
+		if r1 is None or r2 is None:
+			return False
+​
+		if r1.val != r2.val:
+			return False
+		
+		# append the next set of nodes 
+		q.append(r1.left)
+		q.append(r2.right)
+​
+		q.append(r1.right)
+		q.append(r2.left)
+​
+	return True
