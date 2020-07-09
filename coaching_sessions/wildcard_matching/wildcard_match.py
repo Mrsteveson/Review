@@ -87,3 +87,39 @@ class Solution:
 #                 return recurse(s[1:], p[1:])
     
 #         return recurse(s, p)
+
+class Solution:
+    def isMatch(self, s: str, p: str)-> bool:
+        cache = {}
+        
+        def recurse(s, p):
+            if not s:
+                return (p == '') or (p[0] == '*' and recurse(s, p[1:]))
+            if not p:
+                return not s
+​
+            if (s, p) not in cache:
+                if p[0] == '*':
+                    cache[(s, p)] = recurse(s, p[1:]) or recurse(s[1:], p)
+                else:
+                    if s[0] != p[0] and p[0] != '?':
+                        cache[(s, p)] = False
+                    else:
+						# instead of incrementing along both string and pattern via recursion
+						# we can cut down on recursive calls by incrementing manually so long 
+						# as both the current string and pattern chars are normal letters or '?'
+                        sp, pp = 0, 0
+                        
+                        while sp < len(s) and pp < len(p) and (s[sp] == p[pp] or p[pp] == '?'):
+                            sp += 1
+                            pp += 1
+                        
+                        if sp == len(s) and pp == len(p):
+                            cache[(s, p)] = True
+                        else:
+							# we encountered an '*' in pattern, recurse as normal
+                            cache[(s, p)] = recurse(s[sp:], p[pp:])
+            
+            return cache[(s, p)]
+        
+        return recurse(s, p)
