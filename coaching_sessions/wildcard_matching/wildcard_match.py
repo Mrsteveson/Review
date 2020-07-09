@@ -123,3 +123,36 @@ class Solution:
             return cache[(s, p)]
         
         return recurse(s, p)
+
+class Solution:
+    def isMatch(self, s: str, p: str) -> bool:
+        
+        i, j = 0, 0                        # pointers for indices of s and p
+        wildcards = {'*', '?'}             # dict to store wildcard characters
+        star_index_in_p = -1               # pointer for the last index of '*' in p
+        
+        while i < len(s):
+            
+            # if we're beyond pattern's limit, or pattern is an unmatched character and not a wildcard
+            if j >= len(p) or (p[j] != s[i] and p[j] not in wildcards):
+                if star_index_in_p == -1:  # if we haven't seen a '*' in p yet, we have no flexibility
+                    return False
+                j = star_index_in_p + 1    # reset p index pointer to character after star_index_in_p
+                star_index_in_s += 1       # reset s index pointer to character after star_index_in_s
+                i = star_index_in_s        # i.e. use '*' to match one character from s
+                
+            elif p[j] == '*':              # record index of '*' in p and next index to be matched in s
+                star_index_in_p = j
+                star_index_in_s = i
+                j += 1
+                
+            else:                          # else, if characters match or p[j]=='?', increment both pointers
+                i += 1
+                j += 1
+                
+        while j < len(p):                  # now that we're outside the limits of s,
+            if p[j] != '*':                # any remaining characters in p can only be '*'
+                return False
+            j += 1
+            
+        return True                        # if we made it this far, s and p match
